@@ -1,1 +1,1 @@
-# staticmjy.majianyu.eu.org
+# cdn.blog.majianyu.eu.org
